@@ -13,6 +13,7 @@
 - [Amazon Lymberyard](https://aws.amazon.com/it/lumberyard/) Amazon Lumberyard is a free AAA game engine deeply integrated with AWS and Twitch.
 - [Google VR](https://developers.google.com/vr/) Google SDK for developing products on cardboard and daydream using Unity or Unreal.
 - [A-Frame](https://aframe.io/) Use markup to create VR experiences that work across desktop, iOS, Android, the Oculus Rift, and the HTC Vive.
+- [Rust Openvr](https://github.com/rust-openvr/rust-openvr)
 
 ## Graphics
 - [Blender](https://www.blender.org/) Open Source 3D creation. Free to use for any purpose.
@@ -21,3 +22,9 @@
 ## Motion Sickness Dev Tips
 - http://www.gamesradar.com/how-the-battle-to-stop-vr-sickness-will-change-game-development-forever/
 - http://www.develop-online.net/special-features/the-develop-guide-to-designing-for-virtual-reality/0129
+
+## Other good reference lists
+- https://github.com/melbvr/awesome-VR
+- https://github.com/wizztjh/awesome-WebVR
+- https://github.com/thejourneydude/awesome_vr
+- https://github.com/cjroth/awesome-vr
