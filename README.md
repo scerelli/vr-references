@@ -28,3 +28,6 @@
 - https://github.com/wizztjh/awesome-WebVR
 - https://github.com/thejourneydude/awesome_vr
 - https://github.com/cjroth/awesome-vr
+
+## Articles 
+- https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d#.qs3zs0wch
