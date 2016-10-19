@@ -22,6 +22,7 @@
 ## Graphics
 - [Blender](https://www.blender.org/) Open Source 3D creation. Free to use for any purpose.
 - [Sculptris](http://pixologic.com/sculptris/) Sculptris is a digital sculpting tool made by the ZBrush team and it's free to use.
+
 ### Photogrammetry
 - [Intro to Photogrammetry](http://www.photogrammetry.com/) Photogrammetry is the science of making measurements from photographs.
 - [123D Catch](http://www.123dapp.com/catch) 123D Catch is a free app that lets you create 3D scans of virtually any object.
