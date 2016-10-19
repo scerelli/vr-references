@@ -5,6 +5,7 @@
 - https://vr.chromeexperiments.com/ Cardboard ready experiences
 - http://uploadvr.com/google-shares-lessons-60-vr-experiments/ A good article that explore the workarounds and technical choises made from the [Daydream Labs](https://vr.google.com/daydream/)
 - [CSS VR Experiments](https://mozvr.com/cssvr-experiments/) Requires Firefox Nightly with CSS VR support.
+- [VRChat](http://www.vrchat.net/) VRChat lets you create, publish, and explore virtual worlds with other people from around the world.
 
 ## Engines / SDKs
 - [Unity3D](https://unity3d.com/)
@@ -21,6 +22,10 @@
 ## Graphics
 - [Blender](https://www.blender.org/) Open Source 3D creation. Free to use for any purpose.
 - [Sculptris](http://pixologic.com/sculptris/) Sculptris is a digital sculpting tool made by the ZBrush team and it's free to use.
+### Photogrammetry
+- [Intro to Photogrammetry](http://www.photogrammetry.com/)
+- [123D Catch](http://www.123dapp.com/catch)
+- http://www.roadtovr.com/realities-photogrammetry-virtual-reality-htc-vive/
 
 ## Motion Sickness Dev Tips
 - http://www.gamesradar.com/how-the-battle-to-stop-vr-sickness-will-change-game-development-forever/
